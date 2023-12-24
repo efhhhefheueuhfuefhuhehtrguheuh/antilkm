@@ -34,4 +34,4 @@
 > 
 > Copilot AI    [https://copilot.microsoft.com](https://copilot.microsoft.com)
 > 
-> 下载可打印版本: [https://lkm.bitch.cloudns.org/index.pdf](https://lkm.bitch.cloudns.org/index.pdf)
+> 下载可打印版本: [https://lkm.bitch.cloudns.org/index.pdf](https://lkming.bitch.cloudns.org/index.pdf)
